@@ -11,6 +11,21 @@ Demo video of the app:
 https://user-images.githubusercontent.com/87437738/233775367-2422a92d-eab2-4efa-a569-cacd80871ce6.mp4
 
 
+Install Dependencies
+
+• npm install
+
+• npx install expo // expo install
+
+If you dont have the expo cli then install expo cli by: npm install -g expo-cli
+
+
+Usage
+
+• Run: npm start
+
+
+
 
 
 
