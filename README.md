@@ -6,6 +6,8 @@
 ![5(1)](https://user-images.githubusercontent.com/87437738/233774766-bf8bbc5a-b684-4dae-97ca-293ddaaeeb7c.jpg)
 ![6(2)](https://user-images.githubusercontent.com/87437738/233774816-cd535f2d-4685-4d6d-a580-be389d7759f1.jpg)
 ![7(1)](https://user-images.githubusercontent.com/87437738/233774862-ce962821-cf53-4e1f-8eb7-0eab630ff158.jpg)
+
+Demo video of the app:
 https://user-images.githubusercontent.com/87437738/233775367-2422a92d-eab2-4efa-a569-cacd80871ce6.mp4
 
 
